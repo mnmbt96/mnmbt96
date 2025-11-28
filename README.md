@@ -9,5 +9,4 @@
 [![My Skills](https://skillicons.dev/icons?i=java,cs,javascript,react,nextjs,tailwind,html,css,scss,bootstrap,mysql,postgres,sqlite,docker,git,github,figma&theme=light)](https://skillicons.dev)
 
 ## Leetcode Achevement
-![Leetcode Achevement](https://leetcode-badge-sage.vercel.app/badge/mnmbt96?theme=light)
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/mnmbt96?theme=light&font=Port%20Lligat%20Slab&ext=heatmap)
