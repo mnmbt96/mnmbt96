@@ -1,12 +1,11 @@
-# Hi there👋
+# Hi there! I'm Manami
 
- My name is __Manami__, a frontend developer based in Vancouver, Canada🇨🇦 
- 
- I have completed the JavaScript Master Course and am now enjoying developing using frameworks such as React. I try to make an effort to write code that is modern, easy to read, and maintainable.
+A developer with professional experience in both backend and frontend development.  
+I enjoy building clean, scalable systems and user-friendly interfaces.  
+Currently exploring new technologies and improving my full-stack skills.
 
-
-## My Skills
+### My Skills
 [![My Skills](https://skillicons.dev/icons?i=java,cs,javascript,react,nextjs,tailwind,html,css,scss,bootstrap,mysql,postgres,sqlite,docker,git,github,figma&theme=light)](https://skillicons.dev)
 
-## Leetcode Achevement
+### Leetcode Status
 ![LeetCode Stats](https://leetcard.jacoblin.cool/mnmbt96?theme=light&font=Port%20Lligat%20Slab&ext=heatmap)
